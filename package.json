@@ -1,0 +1,24 @@
+{
+  "name": "iterable-every",
+  "version": "1.0.0-1",
+  "description": "Returns whether all elements in the iterable satisfy the predicate. Like Array.prototype.every.",
+  "scripts": {
+    "test": "tap test"
+  },
+  "homepage": "https://github.com/seangenabe/iterable-every",
+  "author": "Sean Genabe <seangenabe@outlook.com>",
+  "repository": "seangenabe/iterable-every",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4"
+  },
+  "main": "iterable-every.js",
+  "keywords": [
+    "iterable",
+    "iterator"
+  ],
+  "devDependencies": {
+    "power-assert": "^1.2.0",
+    "tap": "^5.1.1"
+  }
+}
