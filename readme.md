@@ -4,7 +4,7 @@ Returns whether all elements in the iterable satisfy the predicate. Like Array.p
 
 [![npm](https://img.shields.io/npm/v/iterable-every.svg?style=flat-square)](https://www.npmjs.com/package/iterable-every)
 [![Build Status](https://img.shields.io/travis/seangenabe/iterable-every/master.svg?style=flat-square)](https://travis-ci.org/seangenabe/iterable-every)
-[![Coverage Status](https://img.shields.io/coveralls/seangenabe/iterable-every/master.svg&style=flat-square)](https://coveralls.io/github/seangenabe/iterable-every?branch=master)
+[![Coverage Status](https://img.shields.io/coveralls/seangenabe/iterable-every/master.svg?style=flat-square)](https://coveralls.io/github/seangenabe/iterable-every?branch=master)
 [![devDependency Status](https://img.shields.io/david/dev/seangenabe/iterable-every.svg?style=flat-square)](https://david-dm.org/seangenabe/iterable-every#info=devDependencies)
 [![node](https://img.shields.io/node/v/iterable-every.svg?style=flat-square)](https://nodejs.org/en/download/)
 
