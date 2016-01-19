@@ -1,6 +1,6 @@
 {
   "name": "iterable-every",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns whether all elements in the iterable satisfy the predicate. Like Array.prototype.every.",
   "scripts": {
     "test": "tap test"
