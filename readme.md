@@ -1,5 +1,7 @@
 # iterable-every
 
+OUT OF MAINTENANCE. Use [starry.every](https://github.com/seangenabe/starry) instead.
+
 Returns whether all elements in the iterable satisfy the predicate. Like Array.prototype.every.
 
 [![npm](https://img.shields.io/npm/v/iterable-every.svg?style=flat-square)](https://www.npmjs.com/package/iterable-every)
